@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: guobeiye
-baseurl: /StrayBirds
+baseurl: /Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
